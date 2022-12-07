@@ -19,4 +19,4 @@ sudo apt-get install -y docker-ce \
 && \
 sudo apt-get install -y docker-ce-cli containerd.io docker-compose-plugin \
 && \
-sudo docker run -d -p 8080 aschil/snake
+sudo docker run -d -p 8090 aschil/snake
